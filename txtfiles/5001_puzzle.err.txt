@@ -1,0 +1,7 @@
+
+Fri, 10 Dec 2021 07:12:56 ERROR: Could not open Images/marios_not_here/mario_thumbnail.gif. LOCATION: create_gameboard()
+Fri, 10 Dec 2021 07:15:47 ERROR: Images/marios_not_here/mario_thumbnail.gif does not exist. LOCATION: create_gameboard()
+Fri, 10 Dec 2021 02:17:22 ERROR: Images/marios_not_here/mario_thumbnail.gif does not exist. LOCATION: create_gameboard()
+Fri, 10 Dec 2021 03:06:08 ERROR: None does not exist. LOCATION: read_puz()
+Fri, 10 Dec 2021 12:50:43 ERROR: None does not exist. LOCATION: read_puz()
+Sat, 11 Dec 2021 12:11:15 ERROR: None does not exist. LOCATION: read_puz()
